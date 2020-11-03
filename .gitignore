@@ -1,0 +1,59 @@
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Decompiled assembly
+*.list
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Other
+*.PublishSettings
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+*.img
+*.bin
+
+#Fucking eclipse!
+.cproject
+.project
+.settings/*
+
+#MacOSX specific crap
+*.DS_Store
+
+#project specific folders
+[Oo]bject/*
+[Bb]uild/*
+[Ss]dcard/*
+[Oo]bj/*
+[Bb]in/*
+**/[Bb]in/*
+**/[Oo]bject/*
+**/[Bb]uild/*
+**/[Oo]bj/*
+.vscode/ipch
+
+[Tt]ools/**/*
