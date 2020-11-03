@@ -1,14 +1,13 @@
-# Agenda - Azure Introduction Workshop 2020
+# Azure Introduction Workshop 2020
 
 ## Tools needed:
  - Azure Subscription
- - A browser (Chromium based is preffered)
+ - A browser (Chromium based is preferred for Azure Portal)
  - Git
  - Azure CLI
  - .NET Core SDK
- - Visual Studio / Visual Studio Code. (Visual Studio preffered)
+ - Visual Studio / Visual Studio Code. (Visual Studio preferred)
  - (opt) Azure Storage Explorer
- - (opt) Docker command line (cloud shell can be used instead?)
 
 ## Part 1 - Using the administration tools (1h)
 
