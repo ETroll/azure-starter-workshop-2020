@@ -1,6 +1,8 @@
 # Azure Introduction Workshop 2020
 
-## Tools needed:
+This Azure introduction workshop is ment as a kickstart to Microsoft Azure for developers. It has a estimated runtime of 6-7 hours and covers a small subset of the services available on Azure. 
+
+## Tools needed by the attendees:
  - Azure Subscription
  - A browser (Chromium based is preferred for Azure Portal)
  - Git
@@ -11,7 +13,7 @@
 
 ## Part 1 - Using the administration tools (1h)
 
-### Lecture 1 - The cloud and Azure in 15 min (15 min)
+### Topics:
  - Azure Portal
  - Azure CLI
  - Azure Basics
@@ -22,6 +24,8 @@
     - NSG
     - Disks
     - Storage
+
+### Lecture 1 - The cloud and Azure in 15 min (15 min)
 
 Notes to self regarding this lecture: Try to explain that "The cloud" is really just a "self-service" data center with many pre-made solutions (platforms) built on top of the rentable hardware. Mention and explain IaaS along side this.
 
@@ -78,9 +82,9 @@ TODO
 
 ## Part 4 - Azure Functions 
 
-## Part 5 - Azure Logic Apps
+## Part 5 - Azure Logic Apps and Azure Event Grid
 
-## Part 6 - Azure Event Grid / Service Bus with Functions
+<!-- ## Part 6 - Azure Event Grid / Service Bus with Functions -->
 
 
 
